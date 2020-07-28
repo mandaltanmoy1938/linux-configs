@@ -1,4 +1,5 @@
-.android
+ 
+.android/
 .bash_logout
 .bashrc
 .charles
@@ -7,8 +8,8 @@
 .histfile
 .java
 linux-configs
-.m2
-.mysql
+.m2/
+.mysql/
 .pki
 .thumbnails
 .zcompdump

@@ -1,0 +1,8 @@
+#global-config
+max-visible=3
+anchor=bottom-right
+
+#style-options
+border-size=0
+default-timeout=2000
+
